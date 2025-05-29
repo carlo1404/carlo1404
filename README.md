@@ -8,7 +8,8 @@ https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](h
 <p align="center"><a href="https://arjuncvinod.github.io">Portfolio↗️</a></p>
 <img align="right" alt="Coding" width="400" src="#">
 
-![GitHub followers](https://img.shields.io/github/followers/arjuncvinod?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/arjuncvinod?style=social)<img src="https://komarev.com/ghpvc/?username=arjuncvinod" alt="" />
+![GitHub followers](https://img.shields.io/github/followers/arjuncvinod?style=social) ![GitHub User's stars]
+(https://img.shields.io/github/stars/arjuncvinod?style=social)<img src="https://komarev.com/ghpvc/?username=arjuncvinod" alt="" />
 
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **About Me**
 
@@ -21,7 +22,7 @@ https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](h
 
  📫 Reach out to me: **brunoreyes150@gmail.com**
 
- ✍ You can find my resume [here](https://drive.google.com/file/d/1ekHjHAyfKdtdQfXo_kETWMtlcA3wSV5g/view?usp=sharing)
+ ✍ You can find my resume [here]()
 
  ⚡ Fun fact: **My first line of code was not "Hello World!"**
 
