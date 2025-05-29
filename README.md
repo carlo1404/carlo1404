@@ -1,4 +1,5 @@
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
+[![MasterHead](
+https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Carlos Andres</h1>
  
 <div align=center>
@@ -14,7 +15,7 @@
 
  🔭 I’m currently working on [My portfolio website](https://arjuncvinod.github.io)
 
- 🌱 I’m currently learning **React.js, python, c#**
+ 🌱 I’m currently learning **React.js, python, c#, java, Django **
 
  💬 Ask me about ** JavaScript, Html5, Css3, Node.js, MariaDB, PHP, MySQL**
 
