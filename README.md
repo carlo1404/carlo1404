@@ -96,3 +96,6 @@ const Andresitow = () => {
       actitud="🔥"
     />
   )
+}
+
+// 💡 Y recuerda: si el código funciona a la primera... probablemente lo escribí yo. 😎
