@@ -1,68 +1,53 @@
-<!-- Pixel Art + Estilo Dark Hacker -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b2/51/61/b2516160f426e0b5124ea7d1175c29bc.gif" width="180" alt="Pixel Programmer">
+  <img src="https://i.pinimg.com/originals/fc/52/bf/fc52bfda1b8cbb0b5f2826b8d9b49d5c.gif" width="220" alt="Hacker Art"/>
 </p>
 
-<h1 align="center">Hola, soy Andresitow 👨‍💻</h1>
+<h1 align="center">👋 ¡Hola! Soy Andresitow</h1>
+
+<p align="center"><i>Programador Full Stack autodidacta, con buen humor y cero tolerancia al código feo.</i></p>
 
 <p align="center">
-  <i>Programador pragmático, matemático sin rodeos y amante del código sin azúcar.</i>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Desarrollo+Backend+y+Frontend;Fan+de+PHP+%26+MySQL;Nunca+dejo+una+funci%C3%B3n+a+medio+cocinar;El+c%C3%B3digo+es+mi+idioma+natural" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;Node.js+%2B+Express+Lover;JavaScript+is+my+second+language;Mongo+MySQL+Postgres%3F+Bring+it+on!;VS+Code+%E2%86%92+Santuario+del+Debug" />
 </p>
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🧰 Tecnologías y herramientas favoritas
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
 </p>
 
 ---
 
-### 🧠 ¿Sabías qué?
+### 🚧 Proyectos que me tienen despierto a las 3 AM
 
-> El `echo` en PHP no es una función, es un **constructor del lenguaje**. ¡Por eso no lleva paréntesis! 😮
-
-> El `NULL` en SQL **no es lo mismo** que 0 o cadena vacía. ¡Es ausencia total de valor! 🔍
-
-> Cada vez que recargas un `form` con POST sin manejo... muere un programador 💀
-
----
-
-### 🎯 Proyectos clave
-
-- 🧱 Web de productos de PVC con login, carrito y pago (PHP/MySQL)
-- 🔧 Sistema administrativo para taller de motos (React + backend TBD)
-- 🗃️ Videoclub en Python con clases `Socio`, `Película`, `Alquiler`
-- 👤 Portal de usuarios con `Mis Datos`, cambio de contraseña y foto de perfil
+- 🛒 E-commerce con carrito, login y pagos en tiempo real
+- 🔧 Sistema administrativo para taller de motos con facturación
+- 🎬 Plataforma de videoclub en Python orientado a objetos
+- 🧑‍💻 Panel de usuario con actualización de datos, foto de perfil y cambio de contraseña
+- 📦 Sistema CRUD modular hecho con Node.js + Express + Mongo
 
 ---
 
-### 📈 Stats que no mienten
+### ⚡ Código que me representa
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlo1404&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=carlo1404&theme=radical" />
-</p>
-
----
-
-### 🎮 Zona Friki
-
-```bash
-$ sudo apt install café
-E: No se encuentra el paquete 'vida-social'
+```js
+// Cuando el cliente pide una nueva funcionalidad
+app.post("/nueva-idea", (req, res) => {
+  try {
+    construirEnTiempoRecord(req.idea);
+    res.status(200).send("¡Ya está en producción!");
+  } catch (error) {
+    console.error("Ups...", error);
+    res.status(500).send("Fue culpa del cliente.");
+  }
+});
