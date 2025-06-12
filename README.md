@@ -16,6 +16,15 @@
 
 ---
 
+### 🇨🇴 Sobre mí
+
+- 📍 Soy de **Bogotá, Colombia**
+- 🎂 Tengo **19 años**
+- 👨‍💻 Apasionado por el código que se siente y se ve bien
+- 🚀 Próximamente: **Mi portafolio web**, con todo el flow full stack
+
+---
+
 ### 🚀 Tecnologías que manejo con precisión
 
 <p align="center">
@@ -31,6 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" title="PHP"/>
 
   <!-- Bases de datos -->
@@ -47,23 +57,23 @@
 
 ### 🎯 Filosofía de código
 
-- 🎨 Mi **frontend** no es solo bonito: es intuitivo, ligero y se adapta como camaleón.
-- 🔧 Mi **backend** no improvisa: es lógico, limpio y escalable.
-- 🔁 Full stack real: diseño, arquitectura, implementación y control total.
-- 🧠 No colecciono tecnologías, **las entiendo y las aplico con propósito**.
+- 🎨 Mi **frontend** no es solo bonito: es **interactivo**, **moderno** y con estilo claro.
+- 🔧 Mi **backend** tiene estructura y rendimiento. **Node.js y Django** son mis caballos de batalla.
+- 🔁 No me quedo en la superficie: **Full Stack** significa control total de la aplicación.
+- 🔬 Detalles, lógica y performance — todo bien ajustado.
 
 ---
 
 ### 🧱 Proyectos destacados
 
-- 🛍️ **Tienda PVC**: catálogo con carrito, autenticación, pasarela de pago, diseño a medida (Node.js + MySQL + HTML/CSS)
-- 🛠️ **Taller de Motos**: administración de facturas, lectura de códigos de barras, interfaz amigable (React + Mongo + diseño responsive)
-- 🎬 **Videoclub CLI**: consola organizada, OOP, gestión de alquileres (Python puro)
-- 💬 **MiniRed Chismes**: sistema completo de usuarios, publicaciones, edición y respuestas (PHP + MySQL + UI personalizada)
+- 🛍️ **Tienda PVC**: catálogo dinámico, carrito, autenticación, pagos, diseño responsive (Node.js + MySQL)
+- 🛠️ **Taller de Motos**: sistema de facturación con lector de códigos de barras, dashboard admin (React + Mongo)
+- 🎬 **Videoclub CLI**: sistema de alquiler de películas con clases, limpio y mantenible (Python)
+- 💬 **MiniRed Chismes**: red social básica, edición, comentarios, likes, base de datos (PHP + MySQL)
 
 ---
 
-### 📊 Mis estadísticas GitHub
+### 📊 Estadísticas GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=carlo1404&show_icons=true&theme=tokyonight&border_radius=10" />
@@ -73,7 +83,7 @@
 
 ---
 
-### 🤯 Un poco de código con estilo
+### ✨ Código con flow
 
 ```jsx
 // React con lógica y pasión
@@ -86,4 +96,3 @@ const Andresitow = () => {
       actitud="🔥"
     />
   )
-}
