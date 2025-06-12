@@ -1,9 +1,9 @@
-<!-- Imagen pixelada personalizada -->
+<!-- Imagen pixelada personalizada arriba -->
 <p align="center">
   <img src="./ce6d8e1f-56de-44d2-b939-cdf2ba5c5c96.png" width="200" alt="Pixel Programmer">
 </p>
 
-<h1 align="center">🌟 Hola, soy <span style="color:#00FFF7">Andresitow</span> 👨‍💻</h1>
+<h1 align="center">Hola, soy Andresitow 👨‍💻</h1>
 
 <p align="center">
   Programador curioso, matemático creativo y solucionador de problemas sin rodeos.<br>
@@ -12,31 +12,36 @@
 
 ---
 
-### 🚀 Tecnologías que uso
+### 💻 Tecnologías que uso
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode"/>
+- 🛠️ **Back-end**: PHP, Python, C++
+- 🎨 **Front-end**: HTML, CSS, JavaScript
+- 🛢️ **Bases de datos**: MySQL
+- ⚙️ **Herramientas**: Git, VS Code, phpMyAdmin
+
+---
+
+### 🚀 Actualmente
+
+- 📚 Estudio **Análisis y Desarrollo de Software** en el SENA CDITI Dosquebradas  
+- 🧱 Desarrollo una **web de productos de PVC** y un **sistema para taller de motos**  
+- 🧠 Juego con **algoritmos**, bases de datos y me atrevo con proyectos fullstack  
+
+---
+
+### 📊 Mis estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carlo1404&show_icons=true&theme=radical&hide=issues&count_private=true" alt="Estadísticas de Andresitow">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlo1404&layout=compact&theme=radical" alt="Lenguajes más usados">
 </p>
 
 ---
 
-### 💡 Actualmente
-
-- 🧠 Estudio **Análisis y Desarrollo de Software** en el SENA CDITI Dosquebradas  
-- 🧱 Desarrollo una **web de productos de PVC** y un **sistema para taller de motos**  
-- 🧪 Juego con **algoritmos**, bases de datos y proyectos fullstack
-
----
-
-### 🔥 Filosofía
+### 🧠 Filosofía
 
 > _"Primero pienso, luego programo. Y si algo se rompe… también sé depurar."_
 
@@ -45,8 +50,7 @@
 ### 📫 Contacto
 
 - 📧 brunoreyes150@gmail.com
-- 💼 [LinkedIn (opcional si lo quieres agregar)](https://linkedin.com/in/...)
-- 🌐 [TuPortafolio.com](https://tuportafolio.com) *(si lo tienes, lo reemplazo)*
+- 🏫 SENA Dosquebradas
 
 ---
 
