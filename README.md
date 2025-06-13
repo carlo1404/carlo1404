@@ -1,7 +1,4 @@
-from pathlib import Path
 
-# Creamos el contenido del archivo README.md
-readme_content = """
 <!-- 🔥 Andresitow - Código con elegancia, lógica con filo -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/3e/47/61/3e476166c6f2e0d32772ac5151c6d0b3.gif" width="180" alt="Pixel Programmer">
@@ -46,6 +43,7 @@ readme_content = """
 | 🛍️ Tienda PVC        | Carrito, pagos, catálogo y diseño responsivo                           | PHP + MySQL + Tailwind           |
 | 🛠️ Taller de Motos   | Facturación y escaneo de códigos para taller mecánico                  | React + Node + MongoDB           |
 | 🎬 Videoclub CLI     | Sistema en consola para alquiler de pelis, todo orientado a objetos    | Python                           |
+
 | 💬 MiniRed Chismes   | Red social simple, con edición, likes y comentarios                    | PHP + MySQL                      |
 
 ---
