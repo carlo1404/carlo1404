@@ -11,17 +11,19 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=FF0000&center=true&vCenter=true&width=500&lines=React+%7C+CSS+Creativo+%7C+HTML5+limpio;Node+%7C+Django+%7C+Python+%7C+PHP;Frontend+con+detalle+de+artista;Backend+con+alma+de+arquitecto" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00FFFF&center=true&vCenter=true&width=500&lines=React+%7C+CSS+Creativo+%7C+HTML5+limpio;Node+%7C+Django+%7C+Python+%7C+PHP;Frontend+con+detalle+de+artista;Backend+con+alma+de+arquitecto" alt="Typing SVG"/>
 </p>
 
 ---
 
-### 🇨🇴 Sobre mí
+### 🛡️ Badges de poder
 
-- 📍 Soy de **Bogotá, Colombia**
-- 🎂 Tengo **19 años**
-- 💻 Me muevo con soltura entre el arte del frontend y la ciencia del backend
-- 🚀 Próximamente: **Mi portafolio web**, con todo el flow full stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Hecho%20en-Colombia-FFD700?style=for-the-badge&logo=colombia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Edad-19-aqua?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stack-Full%20Stack-purple?style=for-the-badge&logo=stackshare"/>
+  <img src="https://img.shields.io/badge/VSCode-lo%20uso%20hasta%20para%20hacer%20café-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
@@ -29,38 +31,38 @@
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" width="45" title="React" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="45" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="45" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="45" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bootstrap.svg" width="45" title="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" width="45" title="TailwindCSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" title="TailwindCSS"/>
 
   <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg" width="45" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="45" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/django.svg" width="45" title="Django"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" width="45" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" width="45" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" title="PHP"/>
 
   <!-- Bases de datos -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" width="45" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/sqlite.svg" width="45" title="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/firebase.svg" width="45" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" title="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" title="Firebase"/>
 
-  <!-- Otras herramientas -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" width="45" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" width="45" title="VSCode"/>
+  <!-- Herramientas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VSCode"/>
 </p>
 
 ---
 
 ### 🧠 Filosofía de código
 
-- 🎨 Mi **frontend** no es solo bonito: es **interactivo**, **moderno** y tiene **estilo propio**
-- 🔧 Mi **backend** tiene estructura, rendimiento y visión arquitectónica
-- 🔁 **Full Stack** para mí no es moda, es dominio técnico
-- 🧠 Detalles, lógica y performance — todo bien ajustado
+- 🎨 El diseño bonito no basta: tiene que *sentirse vivo*
+- 🧠 Lógica clara, código afilado, rendimiento quirúrgico
+- 🚀 Si algo se puede optimizar, se **debe** optimizar
+- 😎 "Si el código compila a la primera... probablemente fui yo"
 
 ---
 
@@ -73,7 +75,7 @@
 
 ---
 
-### 📈 Estadísticas GitHub
+### 📈 Mis estadísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=carlo1404&show_icons=true&theme=tokyonight&border_radius=10" />
@@ -99,4 +101,5 @@ const Andresitow = () => {
 }
 
 // 💡 Y recuerda: si el código funciona a la primera... probablemente lo escribí yo. 😎
+
 
