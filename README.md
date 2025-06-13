@@ -7,27 +7,27 @@
 
 <p align="center">
   ⚡ <strong><span style="color:#FFA500;">Full Stack Developer</span></strong> con precisión quirúrgica y estilo callejero<br>
-  🧠 Backend con arquitectura, Frontend con estilo. <br>
-  🇨🇴 Orgullosamente colombiano desde Bogotá.
+  🧠 Backend con estructura | 🎨 Frontend con diseño de artista<br>
+  🇨🇴 Orgullosamente de **Bogotá, Colombia**
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=FF00AA&center=true&vCenter=true&width=600&lines=React+%7C+Node+%7C+Python+%7C+PHP;Frontend+con+alma+de+artista;Backend+con+visión+de+ingeniero;Código+limpio+y+filoso;Full+Stack+de+nacimiento" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=FF00AA&center=true&vCenter=true&width=600&lines=React+%7C+Node+%7C+Django+%7C+PHP;Frontend+interactivo+y+moderno;Backend+eficiente+y+estructurado;Código+con+alma+y+actitud+%F0%9F%94%A5" alt="Typing animation">
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🔍 Sobre mí
 
 - 🎂 Tengo **19 años**
-- 🏠 Soy de **Bogotá, Colombia 🇨🇴**
-- 🔥 Me encanta escribir código que funcione bien *y se vea brutal*
-- 🚧 En desarrollo: **Mi portafolio personal**
-- 🤝 Abierto a colaboraciones donde el código sea 🔥
+- 🏠 Vivo en **Bogotá, Colombia 🇨🇴**
+- 👨‍💻 Me desenvuelvo con flow en **frontend y backend**
+- 📈 Siempre buscando la lógica perfecta con un toque de diseño
+- 🚀 Próximamente: **Mi portafolio con estilo brutal**
 
 ---
 
-## 🚀 Tecnologías que uso con flow
+## 🛠️ Tecnologías que domino
 
 <p align="center">
   <!-- Frontend -->
@@ -45,7 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" title="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" title="PHP" />
 
-  <!-- DB -->
+  <!-- Bases de datos -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" title="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" title="Firebase" />
@@ -58,27 +58,27 @@
 
 ---
 
-## 🌟 Proyectos con sello Andresitow
+## 💼 Proyectos que dejan huella
 
 | Proyecto             | Descripción rápida                                                     | Stack principal                  |
 |----------------------|------------------------------------------------------------------------|----------------------------------|
-| 🛍️ Tienda PVC        | Carrito, autenticación, pagos y frontend responsive                    | PHP + MySQL + Tailwind           |
-| 🛠️ Taller de Motos   | Sistema de facturación con lector de códigos de barras                 | React + Node + MongoDB           |
-| 🎬 Videoclub CLI     | Alquiler de películas vía consola con clases bien estructuradas        | Python                           |
-| 💬 MiniRed Chismes   | Red social básica con edición, comentarios, likes y gestión            | PHP + MySQL                      |
+| 🛍️ Tienda PVC        | Carrito, pagos, catálogo y diseño responsivo                           | PHP + MySQL + Tailwind           |
+| 🛠️ Taller de Motos   | Facturación y escaneo de códigos para taller mecánico                  | React + Node + MongoDB           |
+| 🎬 Videoclub CLI     | Sistema en consola para alquiler de pelis, todo orientado a objetos    | Python                           |
+| 💬 MiniRed Chismes   | Red social simple, con edición, likes y comentarios                    | PHP + MySQL                      |
 
 ---
 
-## 🧠 Filosofía de código
+## 💭 Filosofía de código
 
 ```js
-// Cuando algo no me gusta...
-while (!estiloPerfecto || !funcionaPerfecto) {
+// Cuando el código está feo...
+while (!perfecto) {
   refactor();
 }
 
-// Cuando algo me apasiona...
-if (proyecto.potencial === "🔥") {
+// Si el proyecto tiene potencial...
+if (🔥) {
   loDoyTodo();
 }
 
