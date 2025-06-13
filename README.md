@@ -6,12 +6,12 @@
 <h1 align="center">Hola, soy <span style="color:#00FFFF;">Andresitow</span> 👨‍💻</h1>
 
 <p align="center">
-  ⚡ Full Stack Developer | Lógica de precisión | Estética de alto voltaje <br>
-  🎨 Frontend pulido al detalle, Backend sin fisuras.
+  ⚡ <strong><span style="color:#FFA500;">Full Stack Developer</span></strong> | Lógica de precisión | Estética de alto voltaje <br>
+  🎨 Frontend <em>pulido al detalle</em>, Backend <em>sin fisuras</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=red&center=true&vCenter=true&width=500&lines=React+%7C+CSS+Creativo+%7C+HTML5+limpio;Node+%7C+Django+%7C+Python+%7C+PHP;Frontend+con+detalle+de+artista;Backend+con+alma+de+arquitecto" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=FF0000&center=true&vCenter=true&width=500&lines=React+%7C+CSS+Creativo+%7C+HTML5+limpio;Node+%7C+Django+%7C+Python+%7C+PHP;Frontend+con+detalle+de+artista;Backend+con+alma+de+arquitecto" alt="Typing SVG"/>
 </p>
 
 ---
@@ -20,7 +20,7 @@
 
 - 📍 Soy de **Bogotá, Colombia**
 - 🎂 Tengo **19 años**
-- 👨‍💻 Apasionado por el código que se siente y se ve bien
+- 💻 Me muevo con soltura entre el arte del frontend y la ciencia del backend
 - 🚀 Próximamente: **Mi portafolio web**, con todo el flow full stack
 
 ---
@@ -55,16 +55,16 @@
 
 ---
 
-### 🎯 Filosofía de código
+### 🧠 Filosofía de código
 
-- 🎨 Mi **frontend** no es solo bonito: es **interactivo**, **moderno** y con estilo claro.
-- 🔧 Mi **backend** tiene estructura y rendimiento. **Node.js y Django** son mis caballos de batalla.
-- 🔁 No me quedo en la superficie: **Full Stack** significa control total de la aplicación.
-- 🔬 Detalles, lógica y performance — todo bien ajustado.
+- 🎨 Mi **frontend** no es solo bonito: es **interactivo**, **moderno** y tiene **estilo propio**
+- 🔧 Mi **backend** tiene estructura, rendimiento y visión arquitectónica
+- 🔁 **Full Stack** para mí no es moda, es dominio técnico
+- 🧠 Detalles, lógica y performance — todo bien ajustado
 
 ---
 
-### 🧱 Proyectos destacados
+### 🌟 Proyectos destacados
 
 - 🛍️ **Tienda PVC**: catálogo dinámico, carrito, autenticación, pagos, diseño responsive (Node.js + MySQL)
 - 🛠️ **Taller de Motos**: sistema de facturación con lector de códigos de barras, dashboard admin (React + Mongo)
@@ -73,7 +73,7 @@
 
 ---
 
-### 📊 Estadísticas GitHub
+### 📈 Estadísticas GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=carlo1404&show_icons=true&theme=tokyonight&border_radius=10" />
@@ -90,6 +90,16 @@
 const Andresitow = () => {
   return (
     <Desarrollador
+      frontend="elegante"
+      backend="eficiente"
+      debug="filoso"
+      actitud="🔥"
+    />
+  )
+}
+
+// 💡 Y recuerda: si el código funciona a la primera... probablemente lo escribí yo. 😎
+
       frontend="elegante"
       backend="eficiente"
       debug="filoso"
