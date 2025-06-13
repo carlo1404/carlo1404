@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/3e/47/61/3e476166c6f2e0d32772ac5151c6d0b3.gif" width="200" alt="Pixel Programmer">
 </p>
 
-<h1 align="center">Hola, soy <span style="color:#00FFFF;">Andresitow</span>💻</h1>
+<h1 align="center">Hola, soy <span style="color:#00FFFF;">Andresitow</span> 👾💻</h1>
 
 <p align="center">
   ⚡ <strong><span style="color:#FFA500;">Full Stack Developer</span></strong> | Lógica de precisión | Estética de alto voltaje <br>
@@ -39,7 +39,8 @@ sin fisuras</em>
 
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+  <
+img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" title="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" title="PHP"/>
