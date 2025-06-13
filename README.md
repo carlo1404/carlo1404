@@ -1,3 +1,7 @@
+from pathlib import Path
+
+# Creamos el contenido del archivo README.md
+readme_content = """
 <!-- 🔥 Andresitow - Código con elegancia, lógica con filo -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/3e/47/61/3e476166c6f2e0d32772ac5151c6d0b3.gif" width="180" alt="Pixel Programmer">
@@ -8,7 +12,7 @@
 <p align="center">
   ⚡ <strong><span style="color:#FFA500;">Full Stack Developer</span></strong> con precisión quirúrgica y estilo callejero<br>
   🧠 Backend con estructura | 🎨 Frontend con diseño de artista<br>
-  🇨🇴 Orgullosamente de **Bogotá, Colombia**
+  🇨🇴 Orgullosamente de <strong>Bogotá, Colombia</strong>
 </p>
 
 <p align="center">
@@ -19,41 +23,18 @@
 
 ## 🔍 Sobre mí
 
-- 🎂 Tengo **19 años**
-- 🏠 Vivo en **Bogotá, Colombia 🇨🇴**
-- 👨‍💻 Me desenvuelvo con flow en **frontend y backend**
+- 🎂 Tengo <strong>19 años</strong>
+- 🏠 Vivo en <strong>Bogotá, Colombia 🇨🇴</strong>
+- 👨‍💻 Me desenvuelvo con flow en <strong>frontend y backend</strong>
 - 📈 Siempre buscando la lógica perfecta con un toque de diseño
-- 🚀 Próximamente: **Mi portafolio con estilo brutal**
+- 🚀 Próximamente: <strong>Mi portafolio con estilo brutal</strong>
 
 ---
 
 ## 🛠️ Tecnologías que domino
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" title="TailwindCSS" />
-
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" title="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" title="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" title="PHP" />
-
-  <!-- Bases de datos -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" title="SQLite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" title="Firebase" />
-
-  <!-- Herramientas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,tailwind,nodejs,express,python,django,php,mysql,sqlite,firebase,git,github,vscode" />
 </p>
 
 ---
@@ -69,6 +50,34 @@
 
 ---
 
+## 📊 Estadísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carlo1404&show_icons=true&theme=radical&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlo1404&layout=compact&theme=radical&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlo1404&theme=radical&border_radius=10" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlo1404&theme=tokyonight" />
+</p>
+
+---
+
+## 📬 Contacto
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Andresitow-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:tucorreo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-tucorreo@gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://tusitio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-Próximamente-00C7B7?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+---
+
 ## 💭 Filosofía de código
 
 ```js
@@ -81,13 +90,3 @@ while (!perfecto) {
 if (🔥) {
   loDoyTodo();
 }
-
-// Cuando programo lógica:
-while (!esÓptimo(código)) {
-  refactor()
-}
-
-// Cuando compilo:
-console.log("Funciona al primer tiro. Yo lo hice. 😎");
-
-
