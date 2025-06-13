@@ -11,54 +11,55 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=800&color=F7931E&center=true&vCenter=true&width=650&lines=React+%7C+Node+%7C+PHP+%7C+Django;Frontend+con+alma+de+diseñador;Backend+con+mente+de+ingeniero;Lógica+afilada%2C+estilo+fluido;Full+Stack+con+sabor+colombiano" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=700&color=00FFBD&center=true&vCenter=true&width=700&lines=React+%7C+Node+%7C+PHP+%7C+Django;Interfaces+con+alma;Lógica+con+sentido;Código+afilado%2C+estilo+fluido;Full+Stack+con+flow+bogotano" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🇨🇴 Sobre mí
+## 🛡️ Badges de poder
 
-- 🎯 Desde **Bogotá, Colombia** con código y corazón
-- 🧠 Edad: **19 años de sabiduría lógica**
-- 🛠️ Stack preferido: **React + Node + PHP + Django**
-- 🎒 Estudiante y creador con hambre de arquitectura de software
-- 🏗️ Próximamente: **Mi portafolio con diseño quirúrgico y flow**
+<p align="center">
+  <img src="https://img.shields.io/badge/Hecho%20en-Colombia-FFD700?style=for-the-badge&logo=colombia" alt="Hecho en Colombia"/>
+  <img src="https://img.shields.io/badge/Edad-19-aqua?style=for-the-badge" alt="Edad 19"/>
+  <img src="https://img.shields.io/badge/Stack-Full%20Stack-purple?style=for-the-badge&logo=stackshare" alt="Full Stack"/>
+  <img src="https://img.shields.io/badge/VSCode-Lo%20uso%20todo-blue?style=for-the-badge&logo=visualstudiocode" alt="VSCode"/>
+</p>
 
 ---
 
-### 💾 Tecnologías que domino
+## 💾 Tecnologías que domino
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" title="TailwindCSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="TailwindCSS" alt="TailwindCSS"/>
 
   <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" title="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" title="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" title="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" alt="C++"/>
 
   <!-- Bases de datos -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" title="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite" alt="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase" alt="Firebase"/>
 
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VSCode"/>
+  <!-- Herramientas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode" alt="VSCode"/>
 </p>
 
 ---
 
-### 🧠 Filosofía visual y lógica
+## 🧠 Filosofía visual & lógica
 
 ```js
 // Cuando diseño interfaces:
@@ -72,7 +73,6 @@ while (!esÓptimo(código)) {
 }
 
 // Cuando compilo:
-console.log("Funciona a la primera. Yo lo hice. 😎");
-
+console.log("Funciona al primer tiro. Yo lo hice. 😎");
 
 
