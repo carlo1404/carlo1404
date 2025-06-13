@@ -3,11 +3,12 @@
   <img src="https://i.pinimg.com/originals/3e/47/61/3e476166c6f2e0d32772ac5151c6d0b3.gif" width="200" alt="Pixel Programmer">
 </p>
 
-<h1 align="center">Hola, soy <span style="color:#00FFFF;">Andresitow</span> 👨‍💻</h1>
+<h1 align="center">Hola, soy <span style="color:#00FFFF;">Andresitow</span>💻</h1>
 
 <p align="center">
   ⚡ <strong><span style="color:#FFA500;">Full Stack Developer</span></strong> | Lógica de precisión | Estética de alto voltaje <br>
-  🎨 Frontend <em>pulido al detalle</em>, Backend <em>sin fisuras</em>
+  🎨 Frontend <em>pulido al detalle</em>, Backend <em>
+sin fisuras</em>
 </p>
 
 <p align="center">
