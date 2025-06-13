@@ -7,8 +7,7 @@
 
 <p align="center">
   ⚡ <strong><span style="color:#FFA500;">Full Stack Developer</span></strong> | Lógica de precisión | Estética de alto voltaje <br>
-  🎨 Frontend <em>pulido al detalle</em>, Backend <em>
-sin fisuras</em>
+  🎨 Frontend <em>pulido al detalle</em>, Backend <em>sin fisuras</em>
 </p>
 
 <p align="center">
@@ -30,29 +29,28 @@ sin fisuras</em>
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" title="TailwindCSS"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" width="45" title="React" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="45" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="45" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="45" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bootstrap.svg" width="45" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" width="45" title="TailwindCSS"/>
 
   <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
-  <
-img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" title="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg" width="45" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="45" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/django.svg" width="45" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" width="45" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" width="45" title="PHP"/>
 
   <!-- Bases de datos -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" title="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" width="45" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/sqlite.svg" width="45" title="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/firebase.svg" width="45" title="Firebase"/>
 
   <!-- Otras herramientas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" width="45" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" width="45" title="VSCode"/>
 </p>
 
 ---
@@ -102,12 +100,3 @@ const Andresitow = () => {
 
 // 💡 Y recuerda: si el código funciona a la primera... probablemente lo escribí yo. 😎
 
-      frontend="elegante"
-      backend="eficiente"
-      debug="filoso"
-      actitud="🔥"
-    />
-  )
-}
-
-// 💡 Y recuerda: si el código funciona a la primera... probablemente lo escribí yo. 😎
