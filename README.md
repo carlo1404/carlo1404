@@ -23,7 +23,7 @@
 - 💻 Apasionado por el código que se siente y se ve bien
 - 🧠 Lógico como matemático, detallista como diseñador
 - 🚀 Próximamente: **Mi portafolio web**, con todo el flow full stack
-- 📫 **Contacto**: [andresitow.dev@gmail.com](mailto:andresitow.dev@gmail.com) | [LinkedIn]() | [Instagram](https://instagram.com/andres_rys14)
+- 📫 **Contacto**: [brunoreyes150@gmail.com](brunoreyes150@gmail.com) | [LinkedIn]() | [Instagram](https://instagram.com/andres_rys14)
 
 ---
 
