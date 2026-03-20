@@ -2,7 +2,7 @@
 <p align="center">
   <!-- 🔥 Andresitow - Código con elegancia, lógica con filo -->
 <p align="center">
-     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFhZm9yNnU2NjhvbXprMTdibTd2ejk1YzE0c2t0YWM5OHVuNWU2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lkceXNDw4Agryfrwz8/giphy.gif" width="1000" alt="Dev Animation">
+     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFhZm9yNnU2NjhvbXprMTdibTd2ejk1YzE0c2t0YWM5OHVuNWU2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lkceXNDw4Agryfrwz8/giphy.gif" width="600" alt="Dev Animation">
 </p>
 
 <h1 align="center">Hola, soy <span style="color:#00FFFF;">Andres</span> 👾💻</h1>
