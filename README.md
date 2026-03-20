@@ -77,7 +77,7 @@
 ### 🧪 Actualmente enfocado en
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQk2Yz2xY4/giphy.gif" width="200"/>
+  <img src="https://i.pinimg.com/originals/ea/8b/13/ea8b137fbc46bea2f12cc9087e57053d.gif" width="220"/>
 </p>
 
 - ⚡ C# y .NET  
