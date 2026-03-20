@@ -1,6 +1,6 @@
 <!-- 🔥 Andresitow - Código con elegancia, lógica con filo -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="240" alt="Coding Pro">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="380" alt="Pixel Programmer">
 </p>
 
 <h1 align="center">Hola, soy <span style="color:#00FFFF;">Andres</span> 👾💻</h1>
@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="230"/>
+  <img src="https://media.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif" width="230"/>
 </p>
 
 ---
@@ -61,35 +61,43 @@
 ### 💼 Experiencia
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKz9b1C0d9R5h8k/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200"/>
 </p>
 
 - 🏢 Desarrollo de soluciones en entorno real  
 - 🏫 Trabajo en **Universidad Católica de Pereira**  
-- 🔧 Desarrollo de sistemas funcionales (frontend + backend)  
-- 📈 Optimización de lógica y estructura de proyectos  
-- 💻 Experiencia trabajando en equipo y de forma independiente  
+- 🔧 Desarrollo full stack en proyectos funcionales  
+- 📈 Optimización de lógica y estructura  
+- 💻 Trabajo en equipo y modalidad freelance  
 
 ---
 
 ### 🧪 Actualmente enfocado en
 
-- ⚡ C# y ecosistema .NET  
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQk2Yz2xY4/giphy.gif" width="200"/>
+</p>
+
+- ⚡ C# y .NET  
 - 🤖 Visión computacional avanzada  
-- 🧠 Arquitectura backend más robusta  
+- 🧠 Backend más robusto  
 - 🚀 Escalar como freelancer  
 
 ---
 
 ### 🌟 Proyectos destacados
 
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
+</p>
+
 | Proyecto              | Tecnologías                          | Descripción |
 |----------------------|--------------------------------------|------------|
 | 🛍️ Tienda PVC        | `Node.js`, `MySQL`, `CSS`            | Sistema completo con carrito, login y pagos |
-| 🛠️ Taller de Motos   | `React`, `MongoDB`, `BarcodeJS`      | Facturación con lector de códigos y dashboard |
-| 👁️ Scanner OpenCV    | `Python`, `OpenCV`                   | Captura y análisis de datos mediante cámara |
-| 🎬 Videoclub CLI     | `Python`, `POO`                      | Sistema de alquiler por consola |
-| 💬 MiniRed Chismes   | `PHP`, `MySQL`                       | Red social con CRUD, login y sistema dinámico |
+| 🛠️ Taller de Motos   | `React`, `MongoDB`, `BarcodeJS`      | Facturación con lector de códigos |
+| 👁️ Scanner OpenCV    | `Python`, `OpenCV`                   | Captura y análisis en tiempo real |
+| 🎬 Videoclub CLI     | `Python`, `POO`                      | Sistema de alquiler |
+| 💬 MiniRed Chismes   | `PHP`, `MySQL`                       | CRUD + login dinámico |
 
 ---
 
@@ -130,7 +138,3 @@ const Andresitow = () => {
     />
   )
 }
-
-// Si no escala, no sirve.
-// Si no es claro, se rehace.
-// Si funciona perfecto… así se queda 😎
