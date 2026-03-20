@@ -2,7 +2,7 @@
 <p align="center">
   <!-- 🔥 Andresitow - Código con elegancia, lógica con filo -->
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="380" alt="Pixel Programmer">
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="520" alt="Pixel Dev Gaming">
 </p>
 
 <h1 align="center">Hola, soy <span style="color:#00FFFF;">Andres</span> 👾💻</h1>
