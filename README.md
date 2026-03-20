@@ -90,7 +90,7 @@
 ### 🌟 Proyectos destacados
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
+  <img src="https://i.pinimg.com/originals/d6/4f/fb/d64ffbf296fa5d10ce0f200534ff83fe.gif" width="230"/>
 </p>
 
 | Proyecto              | Tecnologías                          | Descripción |
