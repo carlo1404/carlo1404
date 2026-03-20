@@ -116,7 +116,7 @@
 ### 🧠 Mentalidad
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=FF0000&center=true&vCenter=true&width=650&lines=No+escribo+código+por+escribirlo;Construyo+soluciones+reales;Si+no+escala,+no+sirve;Siempre+optimizando" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRtd203NmY2cHJxa3IycGkyMGNvZTlvYjhyMGttaXhvcmEwZzI3byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nR4f2N4SOARyM/giphy.gif" width="240"/>
 </p>
 
 - 🎯 No escribo código por escribirlo — lo diseño  
