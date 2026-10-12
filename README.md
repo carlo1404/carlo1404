@@ -32,7 +32,7 @@
 
 📫 **Contacto**:  
 - ✉️ brunoreyes150@gmail.com  
-- 💼 LinkedIn  
+- 💼 LinkedIn: https://www.linkedin.com/in/carlos-reyes-a30015402/  
 - 📸 Instagram: https://instagram.com/andres_rys14  
 
 ---
